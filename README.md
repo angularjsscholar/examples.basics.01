@@ -1,5 +1,5 @@
 # examples.basics.01
-First AngularJS Example
+First AngularJS Example - nothing special created just to ensure that development environment is successfully setup.
 
 <div>
   <p>Prerequisites:</p>
