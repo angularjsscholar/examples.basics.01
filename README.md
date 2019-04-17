@@ -6,3 +6,4 @@ Prerequisites
   
 Bringup:
   npm install connect
+  npm install karma
