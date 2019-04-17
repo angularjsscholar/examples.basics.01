@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/angularjsscholar/examples.basics.01/issues"
   },
-  "homepage": "https://github.com/angularjsscholar/examples.basics.01#readme"
+  "homepage": "https://github.com/angularjsscholar/examples.basics.01#readme",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "karma": "^4.1.0",
+    "serve-static": "^1.13.2"
+  }
 }
