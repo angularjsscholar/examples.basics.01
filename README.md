@@ -1,10 +1,20 @@
 # examples.basics.01
 First AngularJS Example
 
-Prerequisites:</br>
-  Node.js
-  
-Bringup:</br>
-  npm install connect</br>
-  npm install karma</br>
-  npm install serve-static
+<div>
+  <p>Prerequisites:</p>
+  <ul>
+    <li>Node.js</li>
+  </ul>
+
+</div>
+
+<div>
+  <p>Bringup:</p>
+  <ul>
+    <li>npm init</li>
+    <li>npm install connect</li>
+    <li>npm install serve-static</li>
+    <li>npm install karma</li>
+  </ul>
+</div>  
